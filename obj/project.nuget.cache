@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "yv9RASqV9gxsLK90Q7bXWV2zTcA/XlhVpyQfUsPCaA8dGLviPohciUdY47+Ef/warmvZM8FU8YgL2zz0nB3a/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WIN 8.1\\Documents\\UOL\\newuolkut\\Faculdade\\DesafioPOO\\DesafioPOO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WIN 8.1\\.nuget\\packages\\xunit\\2.6.6\\xunit.2.6.6.nupkg.sha512",
+    "C:\\Users\\WIN 8.1\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\WIN 8.1\\.nuget\\packages\\xunit.analyzers\\1.10.0\\xunit.analyzers.1.10.0.nupkg.sha512",
+    "C:\\Users\\WIN 8.1\\.nuget\\packages\\xunit.assert\\2.6.6\\xunit.assert.2.6.6.nupkg.sha512",
+    "C:\\Users\\WIN 8.1\\.nuget\\packages\\xunit.core\\2.6.6\\xunit.core.2.6.6.nupkg.sha512",
+    "C:\\Users\\WIN 8.1\\.nuget\\packages\\xunit.extensibility.core\\2.6.6\\xunit.extensibility.core.2.6.6.nupkg.sha512",
+    "C:\\Users\\WIN 8.1\\.nuget\\packages\\xunit.extensibility.execution\\2.6.6\\xunit.extensibility.execution.2.6.6.nupkg.sha512"
+  ],
+  "logs": []
+}
